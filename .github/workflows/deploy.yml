@@ -40,5 +40,5 @@ jobs:
           project: "wanqiua-deepsider2a-48"
           entrypoint: "main.ts"
           root: ""
-          
+、          
           
